@@ -1,0 +1,3 @@
+D:/Lihue/Desktop/Questoes de C/cmake-build-debug/CMakeFiles/Questoes_de_C.dir
+D:/Lihue/Desktop/Questoes de C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Lihue/Desktop/Questoes de C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
